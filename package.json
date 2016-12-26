@@ -1,0 +1,46 @@
+{
+  "name": "pantheon-route-manager",
+  "version": "0.0.1",
+  "description": "An express route manager",
+  "main": "lib/app.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovescudero/pantheon-route-manager.git"
+  },
+  "keywords": [
+    "express",
+    "route",
+    "manager",
+    "meuguru",
+    "meu",
+    "guru"
+  ],
+  "author": "joaovescudero",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-mocha-cli": "^2.1.0",
+    "jshint-stylish": "^2.1.0",
+    "load-grunt-tasks": "^3.5.0",
+    "supertest": "^2.0.0",
+    "time-grunt": "^1.3.0"
+  },
+  "files": [
+    "lib/"
+  ],
+  "bugs": {
+    "url": "https://github.com/joaovescudero/pantheon-route-manager/issues"
+  },
+  "homepage": "https://github.com/joaovescudero/pantheon-route-manager#readme",
+  "dependencies": {
+    "defaults": "^1.0.3"
+  }
+}
